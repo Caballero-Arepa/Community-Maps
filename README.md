@@ -14,6 +14,7 @@ A map with three fictional, mostly balanced continents.
 A sideways map of the americas with accurate starting locations.
 
 ### [Indonesia – Manfas the Breathing Human](https://raw.githubusercontent.com/ArchDuque-Pancake/Great-Community-Maps/main/maps/Indonesia.txt)
+![Map preview](https://media.discordapp.net/attachments/676559694864842766/841233127527809024/Screen_Shot_2021-05-10_at_09.36.12.png?width=260&height=200)
 
 Includes East Malaysia, Brunei, and Timor Leste.
 
