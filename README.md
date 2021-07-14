@@ -9,7 +9,7 @@ This repository will serve as a simple source for high-quality maps, especially 
 A map with three fictional, mostly balanced continents.
 
 ### [America – Real Resources, civs – Pancake Knight](https://raw.githubusercontent.com/ArchDuque-Pancake/Great-Community-Maps/main/maps/America.3.1.Real-Resources-civs)
-![Map preview](https://discord.com/channels/586194543280390151/863707203328278548/864986765940621342)
+![Map preview](https://media.discordapp.net/attachments/863707203328278548/864986763859853342/20210714_164100.jpg)
 
 A sideways map of the americas with accurate starting locations.
 
