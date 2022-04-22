@@ -1,4 +1,4 @@
-# Great-Maps
+# Community-Maps
 This repository will serve as a simple source for decent to great maps, especially in #custom-maps-🗺 from Unciv's discord server. If you have a nomination, write up an issue, a pull request, or do whatever else you're comfortable with!
 
 Dictionary of terms: S = Small Size; M - Medium Size; L - Large Size; XL - Huge Size;
@@ -13,7 +13,7 @@ A map with three fictional, mostly balanced continents. **Size: 87x57**
 ### [Americas – Caballero Arepa](https://raw.githubusercontent.com/ArchDuque-Pancake/Great-Community-Maps/main/maps/America.3.1.Real-Resources-civs)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/864986763859853342/20210714_164100.jpg)
 
-Map of North and South América, with accurate~ resources and geography. **Size: 60x79**
+Map of North and South América, with accurate resources and geography. **Size: 60x79**
 
 ### [Box-Fort PvP - Derui](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Boxfort_pvp%20-%20M)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/894252660046307338/ac8237bb89ceda8f.jpeg?width=189&height=418)
