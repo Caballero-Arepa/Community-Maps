@@ -25,6 +25,11 @@ A fun map to do PvP. Absolutley not realistic, but fun. **Size: 41x80**
 
 A realistic map of europe and balanced gameplay. **Size: 67x43**
 
+### [Europe - Alex](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Europe%20-%20XL)
+![Map preview](https://media.discordapp.net/attachments/863707203328278548/986669901844467723/Europe_XL_minimap.png)
+
+A realistic looking map of Europe, but resources are automatically generated, not realistic. **Size: 87x57**
+
 ### [Global Warming, Antartica - Marauder](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Global%20Warming%2C%20Antartica%20-%20L)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/914795036686835722/IMG_20211129_162511.JPG?width=454&height=418)
 
