@@ -15,6 +15,11 @@ A map with three fictional, mostly balanced continents. **Size: 87x57**
 
 Map of North and South América, with accurate resources and geography. **Size: 60x79**
 
+### [Antartica – BambooLord](https://raw.githubusercontent.com/ArchDuque-Pancake/Great-Community-Maps/main/maps/Antartica%20-%20M)
+![Map preview](https://media.discordapp.net/attachments/863707203328278548/993083216690942022/20220703_111748.jpg?width=360&height=418)
+
+Map of the Antartic continent, plus a bit of Patagonia. **Radius: 20**
+
 ### [Box-Fort PvP - Derui](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Boxfort_pvp%20-%20M)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/894252660046307338/ac8237bb89ceda8f.jpeg?width=189&height=418)
 
