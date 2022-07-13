@@ -30,6 +30,11 @@ A realistic map of europe and balanced gameplay. **Size: 67x43**
 
 A realistic looking map of Europe, but resources are automatically generated, not realistic. **Size: 87x57**
 
+### [Europe - MoisesG](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Europe%20-%20XXL)
+![Map preview](https://media.discordapp.net/attachments/823697600733249557/996829107553837146/unknown.png?width=536&height=418)
+
+If those two Europes aren't big enough for you, here *another* Europe, but bigger. Resources automatically generated. **Size: 110x74**
+
 ### [Global Warming, Antartica - Marauder](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Global%20Warming%2C%20Antartica%20-%20L)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/914795036686835722/IMG_20211129_162511.JPG?width=454&height=418)
 
