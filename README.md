@@ -31,7 +31,7 @@ The Australian continent, with realistic biomes and elevations, and generated ve
 A fun map to do PvP. Absolutley not realistic, but fun. **Size: 41x80**
 
 ### [Dogbone Cove – Firelord770](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Dogbone%20Cove%20-%20L)
-![Map preview]()
+![Map preview](https://media.discordapp.net/attachments/1044719747842965514/1044719748212068402/Screenshot_20221122-143357_Unciv.jpg?width=876&height=418)
 
 Artificial map with 5 continets and a cove that looks like a bone - Has World Wrap. **Size: 66x43**
 
