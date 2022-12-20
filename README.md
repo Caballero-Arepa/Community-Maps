@@ -20,10 +20,25 @@ Map of North and South América, with accurate resources and geography. **Size: 
 
 Map of the Antartic continent, plus a bit of Patagonia. **Radius: 20**
 
+### [Australia – BambooLord](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Australia%20-%20L)
+![Map preview](https://media.discordapp.net/attachments/1036726499367194675/1036726499648217098/20221031_200254.jpg?width=564&height=418)
+
+The Australian continent, with realistic biomes and elevations, and generated vegetation and resources. **Size: 66x43**
+
 ### [Box-Fort PvP - Derui](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Boxfort_pvp%20-%20M)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/894252660046307338/ac8237bb89ceda8f.jpeg?width=189&height=418)
 
 A fun map to do PvP. Absolutley not realistic, but fun. **Size: 41x80**
+
+### [Dogbone Cove – Firelord770](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Dogbone%20Cove%20-%20L)
+![Map preview]()
+
+Artificial map with 5 continets and a cove that looks like a bone - Has World Wrap. **Size: 66x43**
+
+### [Doggiepelago – Firelord770](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Doggiepelago%20-%20L)
+![Map preview](https://media.discordapp.net/attachments/1044815333296459777/1044815334101753906/Screenshot_20221122-210229_Unciv.jpg?width=799&height=418)
+
+Artificial map with 9 continents, with the center one looking like a dog - Has World Wrap. **Size: 66x43**
 
 ### [Europe - MathewJake](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Europe%20-%20L)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/865216345247449138/Screenshot_2021-07-15-20-02-59-1.png?width=556&height=418)
@@ -89,6 +104,11 @@ The batic sea and it's surroundings, in winter time... **Size: 77x67**
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/910751184262922320/Screenshot_2021_1118_122859.jpg?width=171&height=417)
 
 A hand drawn map of south America, not very accurate, but repressentative. **Size: 50x80**
+
+### [Split River – BambooLord](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Split%20River%20-%20L)
+![Map preview](https://media.discordapp.net/attachments/1026127697715408961/1026127698038358046/River_Split_3.png?width=598&height=418)
+
+Artificial map with one lare river crossing by the middle - Has World Wrap. **Size: 66x43**
 
 ### [True Earth - Aditya von Karma](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/True%20Earth%20-%20XL)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/908323778054983700/Screenshot_2021-06-25-04-43-04-131_com.unciv.app.png?width=549&height=418)
