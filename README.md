@@ -114,4 +114,5 @@ Artificial map with one lare river crossing by the middle - Has World Wrap. **Si
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/908323778054983700/Screenshot_2021-06-25-04-43-04-131_com.unciv.app.png?width=549&height=418)
 
 A hand drawn map of the Earth. **Size: 87x57**
+Updated by Arran
 
