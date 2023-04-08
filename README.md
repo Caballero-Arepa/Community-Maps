@@ -75,32 +75,32 @@ Another map of Indonesia, with bits of Malaysia and the Philippines. **Size: 66x
 
 A map of only Indonesian nation, but includes East Malaysia, Brunei, and Timor Leste. **Size: 87x57**
 
-### [Islands of the VI Natural Wonders - yurafella](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Islands%20of%20The%20VI%20Natural%20Wonders)
+### [Islands of the VI Natural Wonders - yurafella](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Islands%20of%20The%20VI%20Natural%20Wonders)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/886636094022623232/Polish_20210912_182029170.png)
 
 A fictional map, balanced to play. **Size: 44x29**
 
-### [Japan - Marauder](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Japan%20-%20XL)
+### [Japan - Marauder](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Japan%20-%20XL)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/912241092366323712/IMG_20211122_151128.JPG?width=311&height=418)
 
 A map of souly the Japannese islands. Includes 5 wonders. **Size: 60x70**
 
-### [North Atlantic - Фанат](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/North%20Atlantic%20-%20XL)
+### [North Atlantic - Фанат](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/North%20Atlantic%20-%20XL)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/942331686077759498/xEcvl_GtGOQ.jpg)
 
 The western world, Europe and NA in one map. NA taken from Caballero-Arepa's map, and europe form MathewJake's map. **Size: 121x41**
 
-### [Philippines - MathewJake](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Philippines%20-%20M)
+### [Philippines - MathewJake](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Philippines%20-%20M)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/869170167656120400/Screenshot_2021-07-26-18-24-47-1.png?width=326&height=418)
 
 The Philippines complete. All the islands. **Size: 45x50**
 
-### [Scandinavia - Marauder](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/Scandinavia%20-%20XL)
+### [Scandinavia - Marauder](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Scandinavia%20-%20XL)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/926747885826088960/IMG_20220101_160103.JPG?width=413&height=418)
 
 The batic sea and it's surroundings, in winter time... **Size: 77x67**
 
-### [South America - Marauder](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/South%20America%20-%20XL)
+### [South America - Marauder](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/South%20America%20-%20XL)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/910751184262922320/Screenshot_2021_1118_122859.jpg?width=171&height=417)
 
 A hand drawn map of south America, not very accurate, but repressentative. **Size: 50x80**
@@ -110,9 +110,13 @@ A hand drawn map of south America, not very accurate, but repressentative. **Siz
 
 Artificial map with one lare river crossing by the middle - Has World Wrap. **Size: 66x43**
 
-### [True Earth - Aditya von Karma](https://github.com/ArchDuque-Pancake/Community-Maps/blob/main/maps/True%20Earth%20-%20XL)
+### [True Earth - Aditya von Karma](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/True%20Earth%20-%20XL)
 ![Map preview](https://media.discordapp.net/attachments/863707203328278548/908323778054983700/Screenshot_2021-06-25-04-43-04-131_com.unciv.app.png?width=549&height=418)
 
 A hand drawn map of the Earth. **Size: 87x57**
 Updated by Arran
 
+### [TLS Earth - Oobanooba](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/TSL-Earth-XXXL-RR)
+![Map preview](https://user-images.githubusercontent.com/78449553/230746145-39e6df1f-10d0-44e1-88c3-9c331410d822.png)
+
+The biggest map of Earth so far, combining some other maps into it. By far the most realistic and absolutly huge. Comes with the original version with the mod of BNW, Ancient, Medieval, Latin American civs. **Size: 160x80** So it's under your resposibility loading this gigantic map
