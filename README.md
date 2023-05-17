@@ -30,6 +30,11 @@ The Australian continent, with realistic biomes and elevations, and generated ve
 
 A fun map to do PvP. Absolutley not realistic, but fun. **Size: 41x80**
 
+### [Dana's Earth - Dana](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Doggiepelago%20-%20L)
+![Map preview](https://media.discordapp.net/attachments/1093947687369453678/1108233280685351052/image0.jpg)
+
+A hand-drawn map of the earth, with World Warp. **Size: 88x44**
+
 ### [Dogbone Cove – Firelord770](https://github.com/Caballero-Arepa/Community-Maps/blob/main/maps/Dogbone%20Cove%20-%20L)
 ![Map preview](https://media.discordapp.net/attachments/1044719747842965514/1044719748212068402/Screenshot_20221122-143357_Unciv.jpg?width=876&height=418)
 
